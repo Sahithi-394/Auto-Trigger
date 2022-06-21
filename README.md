@@ -43,8 +43,8 @@ $mvn clean verify
 [INFO] Total time: 3.698 s
 [INFO] Finished at: 2018-10-31T20:12:34+05:30
 [INFO] Final Memory: 16M/139M
-[INFO] ------------------------------------------------------------------------
-```
+[INFO] ----------------------------------------------------------------------
+
 Once the above is completed the file Example-0.0.1-SNAPSHOT.war will be created under target/ folder
 
 2. Now its time for docker, first build the docker image as below command, make sure you are running from the directory which have Dockerfile, otherwise add the dockerfile with path and name in the command too
