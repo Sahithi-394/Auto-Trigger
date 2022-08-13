@@ -9,7 +9,7 @@ $mvn clean verify
 [INFO] ------------------------------------------------------------------------
 [INFO] Building Example 0.0.1-SNAPSHOT
 [INFO] ------------------------------------------------------------------------
-[INFO] 
+[INFO] --- Editing file to check for auto trigger
 [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ Example ---
 [INFO] 
 [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ Example ---
